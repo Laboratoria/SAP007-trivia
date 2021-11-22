@@ -248,54 +248,53 @@ alternativa estava correta.
 <summary>Sugestão de microprojeto A</summary>
 <details>
 
-#### Solamente el "esqueleto" estático
+#### Somente o "esqueleto" estático
 
-- Dos preguntas con sus respectivas alternativas de respuesta en forma de
+- Duas perguntas com as suas respectivas alternativas de respostas em forma de
   _radio buttons_ (🔘)
-- El botón para “Responder y ver resultados”.
+- Um botão para “Responder e ver resultados”.
 
-#### Aprenderás
+#### O que você aprenderá
 
-Cómo construir una página básica HTML con elementos de formulario.
+Como construir uma página básica HTML com elementos de formulário.
 
 </details>
 
 <summary>Sugestão de microprojeto B</summary>
 <details>
 
-##### Prueba darle algo de interacción
+#### Experimente dar alguma interação
 
-Cuando la usuaria dé _click_ en alguno de los _radio button_, muéstrale un
-mensaje de alerta (_alert_) en el navegador que contenga el valor (texto) del
-_radio button_ cliqueado.
+Quando a usuária der um _click_ em algum dos _radio button_, mostre uma
+mensagem de alerta (_alert_) no navegador que contenha o valor (texto) do
+_radio button_ clicado.
 
-**Pista**: Para mostrar un mensaje de alerta básico hay una función de JavaScript
-llamada “_alert_”. Esta función puede “escuchar” eventos del navegador como
-_click_ y hacer algo cuando suceda usando _onclick_ o _addEventListener_.
+**Dica**: Para mostrar uma mensagem de alerta básica há uma função JavaScript
+chamada “_alert_”. Esta função pode “escutar” eventos do navegador como
+_click_ e fazer algo quando isso acontecer, usando _onclick_ ou _addEventListener_.
 
-##### Aprenderás
+#### O que você aprenderá
 
-- Detectar eventos en el navegador (los _clicks_ de la usuaria) y hacer algo
-  cuando sucedan.
-- Identificar los elementos HTML que hay en el navegador y obtener sus valores
-  y/o estados.
+- Detectar eventos do navegador (os _clicks_ da usuária) e fazer algo
+  quando isso acontecer.
+- Identificar os elementos HTML que estão no navegador e obter seus valores
+  e/ou estados.
 
 </details>
 
 <summary>Sugestão de microprojeto C</summary>
 <details>
 
-#### Prueba darle algo de interacción más parecida a la que necesitas
+#### Experimente dar um pouco de interação mais parecida com o que você precisa
 
-En lugar de mostrar el valor de cada _radio button_ cuando se le hace _click_,
-que solamente se marque la opción seleccionada y se muestre el _alert_ con  
-los valores de los _radio button_ seleccionados cuando haga _click_ en
-el botón “Responder y ver resultados”.
+Ao invés de mostrar o valor de cada _radio button_ quando se _clica_ nele,
+a opção é apenas selecionada. O _alert_ com os valores dos _radio button_
+selecionados é mostrado quando se tem o _click_ no botão “Responder e ver resultados”.
 
-#### Aprenderás
+#### O que você aprenderá
 
-- Detectar eventos en el navegador (los clicks del usuario).
-- Identificar los elementos HTML que hay en el navegador y obtener sus valores/estados.
+- Detectar eventos no navegador (os clicks do usuário).
+- Identificar os elementos HTML que existem no navegador e obter seus valores/estados.
 
 </details>
 
@@ -318,21 +317,21 @@ Adicione uma tela de boas-vindas simples com os seguintes elementos e caracterí
 <details>
 <summary>Sugestão de microprojeto A</summary>
 
-#### Evaluando las respuestas de tu usuaria
+#### Avaliando as respostas de seu usuário
 
-Evalúa si las respuestas seleccionadas son correctas o incorrectas. Para hacerlo,
-elige una de las alternativas de la pregunta 1 como la respuesta “correcta”.
-Al dar _click_ en el botón “Responder y ver resultados” muestra un _alert_  
-que diga “Respuesta correcta” o “Respuesta incorrecta” según corresponda.
+Avalie se as respostas selecionadas estão corretas ou incorretas. Para fazer isso,
+escolha uma das alternativas da pergunta 1 como a resposta “correta”. Ao dar _click_
+no botão “Responder e ver resultados” mostra um _alert_  
+que diga “Resposta correta” ou “Resposta incorreta” conforme apropriado.
 
-**Pistas:** Lee sobre condicionales y control de flujo (IF, ELSE).
+**Dicas:** Leia sobre condicionais e controle de fluxo (IF, ELSE).
 
-#### Aprenderás
+#### O que você aprenderá
 
-- Identificar los elementos HTML que hay en el navegador y obtener sus
-  valores/estados.
-- Comparar los valores/estados de los elementos y hacer algo según el
-  resultado que obtengas de la comparación/evaluación.
+- Identificar os elementos HTML que estão no navegador e obter seus valores
+  e/ou estados.
+- Comparar os valores/estados dos elementos e fazer algo conforme o
+  resultado obtido da comparação/avaliação.
 
 </details>
 
